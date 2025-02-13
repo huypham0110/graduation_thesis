@@ -1,0 +1,1 @@
+pyuic6 -o new_gui.py -x LOGIN.ui
